@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.student-id span {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #3366cc;
+}
